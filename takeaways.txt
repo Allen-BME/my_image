@@ -1,0 +1,5 @@
+1. Think about how users might want to use objects you make 
+    - this can inform how you make further data structres (e.g. Image --> ImageCollection)
+    - include relevant features in that data structure (e.g. users want to iterate through
+    images in a directory, include __iter__ and from_directory methods. don't worry about 
+    unimportant methods, like addition, unless they have a relevant use)
